@@ -1,0 +1,5 @@
+{
+  "name": "Shader Lab 3D",
+  "description": "Un entorno interactivo para aprender y experimentar con Shaders WebGL (GLSL) en tiempo real. Modifica vértices y fragmentos, añade variables personalizadas y visualiza los resultados instantáneamente.",
+  "requestFramePermissions": []
+}
